@@ -10,7 +10,7 @@
 
 # Maven
 log/
-target/
+search/target/
 
 # Project
 reports/
