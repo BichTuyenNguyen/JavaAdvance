@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case (1)</name>
+   <tag>12</tag>
+   <integratedEntity>
+      <productName>com.katalon.plugin.testrail.TestRailIntegration</productName>
+      <properties>
+         <entry>
+            <key>testRail.testcase.id</key>
+            <value>2</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>1a5226c6-1d70-4aaa-afa1-60e7c349957c</testCaseGuid>
+</TestCaseEntity>
